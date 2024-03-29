@@ -1,0 +1,302 @@
+[
+  {
+    "village_id": 1809,
+    "village_name": "Kuja - A Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1810,
+    "village_name": "Kuja - B Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1811,
+    "village_name": "Kuja - C Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1812,
+    "village_name": "Muche - A Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1813,
+    "village_name": "Muche - B Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1814,
+    "village_name": "Muche - C Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1815,
+    "village_name": "Ojunge - A Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1816,
+    "village_name": "Ojunge - B Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1817,
+    "village_name": "Ojunge - C Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1818,
+    "village_name": "Ojunge - D Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1821,
+    "village_name": "Hospital Quarters Village",
+    "latitude": "-0.0561705",
+    "longitude": "34.9764147"
+  },
+  {
+    "village_id": 1822,
+    "village_name": "Kaburini Village",
+    "latitude": "-0.2556419",
+    "longitude": "36.2418246"
+  },
+  {
+    "village_id": 1823,
+    "village_name": "Asego/Kerra Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1824,
+    "village_name": "Site -A Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1825,
+    "village_name": "Site -B Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1826,
+    "village_name": "Site -C Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1827,
+    "village_name": "Site - D Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1828,
+    "village_name": "Oriang Village",
+    "latitude": "-0.3945833",
+    "longitude": "34.6255073"
+  },
+  {
+    "village_id": 1829,
+    "village_name": "Upper Water Village",
+    "latitude": "-0.2440253",
+    "longitude": "35.7282147"
+  },
+  {
+    "village_id": 1832,
+    "village_name": "Simenya Village",
+    "latitude": "0.1567748",
+    "longitude": "34.3646202"
+  },
+  {
+    "village_id": 1833,
+    "village_name": "Got Rabuor Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1834,
+    "village_name": "Upper Kokidi Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1835,
+    "village_name": "Lower Kokidi Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1836,
+    "village_name": "Central Makongeni Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1837,
+    "village_name": "Makongeni - A Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1838,
+    "village_name": "Makongeni - B Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1839,
+    "village_name": "Health Centre Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1840,
+    "village_name": "Lower Makongeni Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1841,
+    "village_name": "Upper Makongeni Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1843,
+    "village_name": "Kogelo Kalanya Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1844,
+    "village_name": "Kanyamaya Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1845,
+    "village_name": "Kogola - B Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1846,
+    "village_name": "Kasaoke Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1847,
+    "village_name": "Kondiek - B Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1848,
+    "village_name": "Kondiek Kamigan Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1849,
+    "village_name": "Kondiek - A Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1850,
+    "village_name": "Paw Akuchhe Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1851,
+    "village_name": "Rabuor Kalanya Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1852,
+    "village_name": "Kogwawi Asego Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1854,
+    "village_name": "Kmtc Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1855,
+    "village_name": "Tom Mboya Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1856,
+    "village_name": "Aic Village",
+    "latitude": "-0.2663764",
+    "longitude": "36.1109423"
+  },
+  {
+    "village_id": 1857,
+    "village_name": "Ap Line Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1858,
+    "village_name": "Psison - A Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1859,
+    "village_name": "Prisons - B Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1860,
+    "village_name": "Prison - C Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1861,
+    "village_name": "Prison - D Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1863,
+    "village_name": "Sauri Yako - A Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1864,
+    "village_name": "Sauriyako - B Village",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "village_id": 1865,
+    "village_name": "Salama Village",
+    "latitude": "-1.8512207",
+    "longitude": "37.2638132"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "village_id": 1809,
+    "village_name": "Kuja - A Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1810,
+    "village_name": "Kuja - B Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1811,
+    "village_name": "Kuja - C Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1812,
+    "village_name": "Muche - A Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1813,
+    "village_name": "Muche - B Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1814,
+    "village_name": "Muche - C Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1815,
+    "village_name": "Ojunge - A Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1816,
+    "village_name": "Ojunge - B Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1817,
+    "village_name": "Ojunge - C Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1818,
+    "village_name": "Ojunge - D Village",
+    "location": "Kalanya Kanyango Location",
+    "sublocation": "Kalanya Kanyango Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1821,
+    "village_name": "Hospital Quarters Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Hospital Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1822,
+    "village_name": "Kaburini Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Hospital Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1823,
+    "village_name": "Asego/Kerra Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Hospital Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1824,
+    "village_name": "Site -A Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Hospital Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1825,
+    "village_name": "Site -B Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Hospital Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1826,
+    "village_name": "Site -C Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Hospital Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1827,
+    "village_name": "Site - D Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Hospital Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1828,
+    "village_name": "Oriang Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Hospital Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1829,
+    "village_name": "Upper Water Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Hospital Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1832,
+    "village_name": "Simenya Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1833,
+    "village_name": "Got Rabuor Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1834,
+    "village_name": "Upper Kokidi Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1835,
+    "village_name": "Lower Kokidi Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1836,
+    "village_name": "Central Makongeni Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1837,
+    "village_name": "Makongeni - A Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1838,
+    "village_name": "Makongeni - B Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1839,
+    "village_name": "Health Centre Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1840,
+    "village_name": "Lower Makongeni Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1841,
+    "village_name": "Upper Makongeni Village",
+    "location": "Asego Location",
+    "sublocation": "Asego A Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1843,
+    "village_name": "Kogelo Kalanya Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1844,
+    "village_name": "Kanyamaya Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1845,
+    "village_name": "Kogola - B Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1846,
+    "village_name": "Kasaoke Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1847,
+    "village_name": "Kondiek - B Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1848,
+    "village_name": "Kondiek Kamigan Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1849,
+    "village_name": "Kondiek - A Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1850,
+    "village_name": "Paw Akuchhe Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1851,
+    "village_name": "Rabuor Kalanya Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1852,
+    "village_name": "Kogwawi Asego Village",
+    "location": "Asego Location",
+    "sublocation": "Asego B Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1854,
+    "village_name": "Kmtc Village",
+    "location": "Asego Location",
+    "sublocation": "Kajela Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1855,
+    "village_name": "Tom Mboya Village",
+    "location": "Asego Location",
+    "sublocation": "Kajela Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1856,
+    "village_name": "Aic Village",
+    "location": "Asego Location",
+    "sublocation": "Kajela Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1857,
+    "village_name": "Ap Line Village",
+    "location": "Asego Location",
+    "sublocation": "Kajela Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1858,
+    "village_name": "Psison - A Village",
+    "location": "Asego Location",
+    "sublocation": "Kajela Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1859,
+    "village_name": "Prisons - B Village",
+    "location": "Asego Location",
+    "sublocation": "Kajela Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1860,
+    "village_name": "Prison - C Village",
+    "location": "Asego Location",
+    "sublocation": "Kajela Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1861,
+    "village_name": "Prison - D Village",
+    "location": "Asego Location",
+    "sublocation": "Kajela Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1863,
+    "village_name": "Sauri Yako - A Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Township Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1864,
+    "village_name": "Sauriyako - B Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Township Sub Location",
+    "ward_id": 693
+  },
+  {
+    "village_id": 1865,
+    "village_name": "Salama Village",
+    "location": "Homa -Bay Town Location",
+    "sublocation": "Township Sub Location",
+    "ward_id": 693
+  }
+]
