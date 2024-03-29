@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Village Coordinates</title>
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+thead {
+    background-color: #f2f2f2;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Village Coordinates</h1>
+    <table id="villageTable">
+        <thead>
+            <tr>
+                <th>Village ID</th>
+                <th>Village Name</th>
+                <th>Latitude</th>
+                <th>Longitude</th>
+            </tr>
+        </thead>
+        <tbody id="villageData">
+            <!-- Data will be inserted here dynamically -->
+        </tbody>
+    </table>
+    <script>
+document.addEventListener('DOMContentLoaded', function () {
+    fetch('village_coordinates.json')
+        .then(response => response.json())
+        .then(data => {
+            const villageTable = document.getElementById('villageTable');
+            const villageData = document.getElementById('villageData');
+            
+            data.forEach(village => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${village.village_id}</td>
+                    <td>${village.village_name}</td>
+                    <td>${village.latitude}</td>
+                    <td>${village.longitude}</td>
+                `;
+                villageData.appendChild(row);
+            });
+            
+            villageTable.style.display = 'block'; // Display the table once data is loaded
+        })
+        .catch(error => console.error('Error fetching data:', error));
+});
+    </script>
+</body>
+</html>
